@@ -11,5 +11,8 @@ html{
 } 
 body{
     font-family: "open sans" , sans-serif;
+} 
+ul{
+    list-style: none;
 }
 /*end Global Rules */ 
