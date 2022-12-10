@@ -176,5 +176,8 @@ header nav .form {
 } 
 .landing .change-background{
   position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #ddd;
 }
 /* end landing */
