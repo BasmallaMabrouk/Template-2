@@ -8,5 +8,8 @@
 } 
 html{
     scroll-behavior: smooth;
+} 
+body{
+    font-family: "open sans" , sans-serif;
 }
 /*end Global Rules */ 
