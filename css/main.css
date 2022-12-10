@@ -135,6 +135,7 @@ header nav .form {
 /* start landing */
 .landing{
   min-height: 100vh;
+  background-color: blue;
   background-image: url(/images/mountcolor.webp);
   background-size: cover;
 }
