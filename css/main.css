@@ -193,4 +193,10 @@ header nav .form {
   bottom: 30px;
   display: flex;
 }
+.landing .bullets li {
+  width: 20px;
+  height: 20px;
+  border: 1px solid white;
+ 
+}
 /* end landing */
