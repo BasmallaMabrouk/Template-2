@@ -138,6 +138,7 @@ header nav .form {
   background-color: blue;
   background-image: url(/images/landing.webp);
   background-size: cover;
+  position: relative;
 } 
 .landing .overlay{
   position: absolute;
