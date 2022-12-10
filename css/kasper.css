@@ -95,5 +95,13 @@ header nav .form {
     position: relative;
     margin-left: 30px;
     border-left: 1px solid white;
+  } 
+  header nav .form i {
+    color:white;
+    position: absolute;
+    font-size: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 0;
   }
 /* end header */
