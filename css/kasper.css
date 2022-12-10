@@ -82,4 +82,9 @@ header nav ul {
     font-size: 14px;
     transition: 0.3s;
   } 
+  header nav ul li a.active,
+header nav ul li a:hover {
+  color: var(--main-color);
+  border-bottom: 1px solid var(--main-color);
+}
 /* end header */
