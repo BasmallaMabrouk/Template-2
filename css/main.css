@@ -239,5 +239,13 @@ header nav .form {
   bottom: -30px;
   width: 120px; 
 }
+.main-heading h2::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 14px;
+  height: 14px;
+ 
 }
 /* end component*/
