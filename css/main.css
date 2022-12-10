@@ -218,3 +218,8 @@ header nav .form {
   border-color: var(--main-color);
 }
 /* end landing */
+/* start component*/
+.main-heading {
+  text-align: center;
+}
+/* end component*/
