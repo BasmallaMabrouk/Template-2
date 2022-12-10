@@ -102,6 +102,9 @@ header nav ul {
     position: relative;
     z-index: 2;
   } 
+  header nav ul li a {
+    padding: 15px !important;
+  }
   header nav ul li a.active,
 header nav ul li a:hover {
   color: var(--main-color);
