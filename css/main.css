@@ -222,4 +222,10 @@ header nav .form {
 .main-heading {
   text-align: center;
 }
+.main-heading h2 {
+  font-weight: normal;
+  font-size: 40px;
+  position: relative;
+  margin-bottom: 70px;
+}
 /* end component*/
