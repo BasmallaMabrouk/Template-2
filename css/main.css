@@ -319,8 +319,13 @@ header nav .form {
 .design .text{
   position: relative;
   z-index: 2;
+  flex: 1;
 }
 .design .image{
   text-align: center;
+} 
+.design .image img{
+  position: relative;
+  bottom: -150px;
 }
 /* end design */
