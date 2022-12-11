@@ -276,6 +276,9 @@ header nav .form {
   color: var(--main-color);
 }
 .services .srv-box p {
+  line-height: 2;
+  
 }
+
 
 /* end services */
