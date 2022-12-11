@@ -320,4 +320,7 @@ header nav .form {
   position: relative;
   z-index: 2;
 }
+.design .image{
+  text-align: center;
+}
 /* end design */
