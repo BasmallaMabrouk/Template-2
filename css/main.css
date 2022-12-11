@@ -269,7 +269,8 @@ header nav .form {
   .services .srv-box {
     display: flex;
     flex-direction: column;
-    
+    text-align: center;
+   
   }
 .services .srv-box{
   display:flex; 
