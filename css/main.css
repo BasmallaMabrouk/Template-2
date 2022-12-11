@@ -275,5 +275,7 @@ header nav .form {
   margin-bottom: 30px;
   color: var(--main-color);
 }
+.services .srv-box p {
+}
 
 /* end services */
