@@ -302,5 +302,6 @@ header nav .form {
   height: 600px;
   position: relative; 
   background-image: url(../images/mountcolor.webp);
+  background-size: cover;
 }
 /* end design */
