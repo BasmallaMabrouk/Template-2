@@ -300,6 +300,7 @@ header nav .form {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
   height: 600px;
-  position: relative;
+  position: relative; 
+  background-image: url(../images/mountcolor.webp);
 }
 /* end design */
