@@ -306,4 +306,8 @@ header nav .form {
   display: flex;
   align-items: center;
 }
+.design::before{
+  content:" ";
+  
+}
 /* end design */
