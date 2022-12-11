@@ -303,5 +303,6 @@ header nav .form {
   position: relative; 
   background-image: url(../images/mountcolor.webp);
   background-size: cover;
+  display: flex;
 }
 /* end design */
