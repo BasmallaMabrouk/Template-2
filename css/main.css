@@ -266,7 +266,8 @@ header nav .form {
  padding-bottom: var(--section-padding);
 }
 @media (max-width: 767px) {
-  
+  .services .srv-box {
+    
   }
 .services .srv-box{
   display:flex; 
