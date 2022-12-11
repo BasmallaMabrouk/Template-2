@@ -295,3 +295,9 @@ header nav .form {
   color: #777;
   }
 /* end services */
+/* start design */
+.design{
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
+}
+/* end design */
