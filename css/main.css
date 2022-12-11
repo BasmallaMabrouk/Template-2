@@ -265,6 +265,9 @@ header nav .form {
  padding-top: var(--section-padding) ;
  padding-bottom: var(--section-padding);
 }
+@media (max-width: 767px) {
+  
+  }
 .services .srv-box{
   display:flex; 
 }
@@ -278,8 +281,7 @@ header nav .form {
 .services .srv-box p {
   line-height: 2;
   color: #777;
-  
-}
+  }
 
 
 /* end services */
