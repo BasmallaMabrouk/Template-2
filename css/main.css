@@ -267,7 +267,8 @@ header nav .form {
 }
 @media (min-width: 768px) {
   .services .services-container {
-   
+    display: grid;
+    
   }
 }
 @media (max-width: 767px) {
