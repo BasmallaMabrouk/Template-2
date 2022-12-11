@@ -344,5 +344,6 @@ header nav .form {
 }
 .design .text ul li::before{
   font-family: "Font Awesome 5 Free";
+  content:"\f108" ;
 }
 /* end design */
