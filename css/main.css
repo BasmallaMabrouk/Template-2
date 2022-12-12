@@ -377,4 +377,9 @@ header nav .form {
   flex-wrap: wrap;
   margin-top: 50px;
 }
+@media (min-width: 768px) {
+  .portfolio .imgs-container .box {
+    flex-basis: 50%;
+  }
+}
 /* end Portfolio */
