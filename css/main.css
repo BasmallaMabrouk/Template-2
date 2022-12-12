@@ -418,6 +418,7 @@ header nav .form {
   color: white;
   padding: 15px 20px;
   display: block;
+  width: fit-content;
   
 }
 
