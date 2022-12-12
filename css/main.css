@@ -417,6 +417,7 @@ header nav .form {
   background-color: var(--main-color);
   color: white;
   padding: 15px 20px;
+  display: block;
   
 }
 
