@@ -379,6 +379,7 @@ header nav .form {
 }
 .portfolio .imgs-container .box {
   position: relative;
+  overflow: hidden;
 }
 @media (min-width: 768px) {
   .portfolio .imgs-container .box {
