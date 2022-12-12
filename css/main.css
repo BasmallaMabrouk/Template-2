@@ -372,4 +372,7 @@ header nav .form {
   background-color: var(--main-color);
   color: white;
 }
+.portfolio .imgs-container{
+  display: flex;
+}
 /* end Portfolio */
