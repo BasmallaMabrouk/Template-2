@@ -390,4 +390,8 @@ header nav .form {
     flex-basis: 25%;
   }
 }
+.portfolio .imgs-container .box .caption {
+  position: absolute;
+ 
+}
 /* end Portfolio */
