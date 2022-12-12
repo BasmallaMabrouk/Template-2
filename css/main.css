@@ -415,6 +415,6 @@ header nav .form {
 }
 .portfolio .more {
   background-color: var(--main-color);
+  color: white;
   
-}
 /* end Portfolio */
