@@ -381,6 +381,9 @@ header nav .form {
   position: relative;
   overflow: hidden;
 }
+.portfolio .imgs-container .box:hover .caption {
+  bottom: 0;
+}
 @media (min-width: 768px) {
   .portfolio .imgs-container .box {
     flex-basis: 50%;
