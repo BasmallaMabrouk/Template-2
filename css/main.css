@@ -364,5 +364,8 @@ header nav .form {
 .portfolio .shuffle{
   display: flex;
   justify-content: center;
+} 
+.portfolio .shuffle li {
+  padding: 10px;
 }
 /* end Portfolio */
