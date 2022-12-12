@@ -413,4 +413,8 @@ header nav .form {
 .portfolio .imgs-container .box .caption p {
   color: var(--main-color);
 }
+.portfolio .more {
+  background-color: var(--main-color);
+  
+}
 /* end Portfolio */
