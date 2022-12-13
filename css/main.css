@@ -477,6 +477,9 @@ header nav .form {
   max-width: 100%;
 }
 @media (max-width: 767px) {
-  
+  .about img {
+    bottom: -60px;
+   
+  }
 }
 /* end about */
