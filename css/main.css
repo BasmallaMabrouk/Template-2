@@ -464,3 +464,8 @@ header nav .form {
   text-transform: uppercase;
 }
 /* end a video  */
+/* start about */
+.about{
+  padding-top: var(--section-padding);
+}
+/* end about */
