@@ -453,4 +453,7 @@ header nav .form {
   text-transform: uppercase;
   font-weight: normal;
 }
+.video .text p {
+  margin-bottom: 30px;
+}
 /* end a video  */
