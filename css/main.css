@@ -448,4 +448,7 @@ header nav .form {
   color: white;
   text-align: center;
 }
+.video .text h2 {
+  margin: 0 0 30px;
+}
 /* end a video  */
