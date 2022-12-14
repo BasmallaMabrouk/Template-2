@@ -490,7 +490,7 @@ header nav .form {
   text-align: center;
   background-image: url("../images/stats.png");
   background-size: cover;
- 
+  position: relative;
 }
 
 /* end stats */
