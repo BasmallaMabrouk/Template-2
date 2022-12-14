@@ -519,5 +519,7 @@ header nav .form {
   justify-content: center;
   align-items: center;
   border-radius: 50%;
+  margin: 0 auto 30px;
 }
+
 /* end stats */
