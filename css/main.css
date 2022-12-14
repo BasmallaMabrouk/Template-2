@@ -522,7 +522,9 @@ header nav .form {
   }
 }
 @media (min-width: 992px){
-  
+  .stats .container .box {
+    
+  }
 }
 .stats .container .box i {
   width: 40px;
