@@ -512,7 +512,9 @@ header nav .form {
   background-color: var(--transparent-color);
 }
 @media (max-width: 767px) {
-  
+  .stats .container .box {
+   
+  }
 }
 .stats .container .box i {
   width: 40px;
