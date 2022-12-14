@@ -503,6 +503,7 @@ header nav .form {
 }
 .stats .container {
   position: relative;
-  
+  display: flex;
+ 
 }
 /* end stats */
