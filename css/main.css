@@ -516,5 +516,6 @@ header nav .form {
   height: 40px;
   display: flex;
   background-color: black;
+  justify-content: center;
 }
 /* end stats */
