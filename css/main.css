@@ -522,7 +522,7 @@ header nav .form {
   margin: 0 auto 30px;
 }
 .stats .container .box .number {
-  
+  font-size: 50px;
 }
 
 /* end stats */
