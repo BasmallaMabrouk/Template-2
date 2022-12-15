@@ -741,4 +741,5 @@ header nav .form {
   height: 1px;
   background-color: var(--main-color);
   position: absolute;
+  left: 50%;
 }
