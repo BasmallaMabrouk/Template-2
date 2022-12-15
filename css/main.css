@@ -587,5 +587,8 @@ header nav .form {
     flex-direction: column;
     text-align: center;
   }
+  .our-skills .testimonials .content img{
+    
+  }
 }
 /* end skills */
