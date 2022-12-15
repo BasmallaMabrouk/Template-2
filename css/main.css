@@ -703,4 +703,5 @@ header nav .form {
 }
 .pricing .plans .plan .head{
   padding: 40px 20px;
+  border-top: 1px ;
 }
