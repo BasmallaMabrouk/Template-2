@@ -555,4 +555,7 @@ header nav .form {
   justify-content: space-between;
   flex-wrap: wrap;
 }
+@media (min-width: 992px) {
+  
+}
 /* end skills */
