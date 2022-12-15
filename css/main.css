@@ -747,4 +747,5 @@ header nav .form {
 }
 .pricing .plans .plan .foot a {
   display: block;
+  padding: 20px ;
 }
