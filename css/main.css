@@ -635,5 +635,8 @@ header nav .form {
   background-color: var(--main-color);
   height: 100%;
   position: relative;
+} 
+.our-skills .skills .prog-holder .prog span::before{
+  
 }
 /* end skills */
