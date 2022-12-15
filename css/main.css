@@ -551,6 +551,6 @@ header nav .form {
   padding-bottom: var(--section-padding);
 }
 .our-skills .container{
-  
+  display: flex;
 }
 /* end skills */
