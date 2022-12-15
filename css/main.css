@@ -640,5 +640,6 @@ header nav .form {
   content: attr(data-progress);
   position: absolute;
   background-color: black;
+  color: white;
 }
 /* end skills */
