@@ -585,6 +585,7 @@ header nav .form {
 @media (max-width: 767px){
   .our-skills .testimonials .content{
     flex-direction: column;
+    text-align: center;
   }
 }
 /* end skills */
