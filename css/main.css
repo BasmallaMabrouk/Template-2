@@ -706,5 +706,5 @@ header nav .form {
   border-top: 1px solid var(--main-color);
 }
 .pricing .plans .plan .head h3{
-  
+  font-weight: normal;
 }
