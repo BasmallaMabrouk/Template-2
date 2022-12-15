@@ -568,5 +568,6 @@ header nav .form {
 }
 .our-skills .container > div > p{
   color: #777;
+  line-height: 2;
 }
 /* end skills */
