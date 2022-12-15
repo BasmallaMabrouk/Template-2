@@ -746,5 +746,5 @@ header nav .form {
   bottom: 0;
 }
 .pricing .plans .plan .foot a {
-  
+  display: block;
 }
