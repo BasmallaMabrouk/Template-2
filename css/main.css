@@ -690,4 +690,5 @@ header nav .form {
 /* Start Pricing */
 ..pricing{
   padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
 }
