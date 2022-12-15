@@ -641,5 +641,6 @@ header nav .form {
   position: absolute;
   background-color: black;
   color: white;
+  top: -40px;
 }
 /* end skills */
