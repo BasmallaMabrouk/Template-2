@@ -593,5 +593,6 @@ header nav .form {
 }
 .our-skills .testimonials .text{
   line-height: 1.8;
+  border-bottom: 1px ;
 }
 /* end skills */
