@@ -666,4 +666,5 @@ header nav .form {
   background-image: url("../images/quote.jpg");
   background-size: cover;
   position: relative;
+  text-align: center;
 }
