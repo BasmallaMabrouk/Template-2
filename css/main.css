@@ -669,4 +669,7 @@ header nav .form {
   text-align: center;
   color: white;
 }
-.quote::before {}
+.quote::before {
+  content: "";
+
+}
