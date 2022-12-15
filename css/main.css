@@ -761,5 +761,5 @@ header nav .form {
 .pricing .contact-link{
   display: block;
   width: fit-content;
-  margin: 20px ;
+  margin: 20px auto;
 }
