@@ -597,5 +597,6 @@ header nav .form {
 }
 .our-skills .testimonials .text p{
   color: #777;
+  text-align: right;
 }
 /* end skills */
