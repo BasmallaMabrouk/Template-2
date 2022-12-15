@@ -759,5 +759,5 @@ header nav .form {
   font-size: 20px;
 }
 .pricing .contact-link{
-  
+  display: block;
 }
