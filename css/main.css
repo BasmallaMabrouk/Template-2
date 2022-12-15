@@ -742,4 +742,5 @@ header nav .form {
   background-color: var(--main-color);
   position: absolute;
   left: 50%;
+  transform: translateX(-50%);
 }
