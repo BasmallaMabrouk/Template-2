@@ -552,5 +552,6 @@ header nav .form {
 }
 .our-skills .container{
   display: flex;
+  justify-content: space-between;
 }
 /* end skills */
