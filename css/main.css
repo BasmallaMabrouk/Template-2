@@ -693,5 +693,5 @@ header nav .form {
   padding-bottom: var(--section-padding);
 }
 .pricing .plans {
-  
+  display: grid;
 }
