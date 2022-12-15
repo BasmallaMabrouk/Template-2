@@ -726,4 +726,5 @@ header nav .form {
   content: "/Mo";
   font-size: 20px;
   position: relative;
+  right: -15px;
 }
