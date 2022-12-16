@@ -792,5 +792,7 @@ header nav .form {
   align-items:center;
 } 
 @media (max-width: 991px){
-  .subscribe .container {}
+  .subscribe .container {
+    flex-direction:;
+  }
 }
