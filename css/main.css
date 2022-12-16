@@ -847,4 +847,6 @@ max-width:100% ;
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
 } 
-.contact .content{}
+.contact .content{
+  display:
+}
