@@ -869,4 +869,6 @@ max-width:100% ;
 .contact .content form .main-input:focus{
   outline:none ;
 }
-.contact .content form textarea.main-input {}
+.contact .content form textarea.main-input { 
+  height: 200px;
+}
