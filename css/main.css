@@ -791,4 +791,6 @@ header nav .form {
   display:flex;
   align-items:center;
 } 
-@media (max-width: 991px){}
+@media (max-width: 991px){
+  .subscribe .container {}
+}
