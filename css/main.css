@@ -797,5 +797,5 @@ header nav .form {
   }
 }
 .subscribe form {
-  display:;
+  display:flex;
 }
