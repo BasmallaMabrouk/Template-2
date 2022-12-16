@@ -880,4 +880,5 @@ max-width:100% ;
   display: flex;
   margin-left: auto;
   text-transform: uppercase;
+  cursor: pointer;
 }
