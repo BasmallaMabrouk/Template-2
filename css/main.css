@@ -947,5 +947,5 @@ max-width:100% ;
 .footer p:not(.copyright){
   text-transform: uppercase;
   padding: 20px;
-  border-bottom: 1px
+  border-bottom: 1px solid ;
 }
