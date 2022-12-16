@@ -852,5 +852,7 @@ max-width:100% ;
   justify-content:space-between;
 }
 @media (max-width: 767px) {
-  .contact .content {}
+  .contact .content {
+    flex-direction:
+  }
 }
