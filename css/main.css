@@ -845,4 +845,5 @@ max-width:100% ;
 /* Start Contact */
 .contact{
   padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
 }
