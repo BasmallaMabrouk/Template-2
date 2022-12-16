@@ -910,4 +910,6 @@ max-width:100% ;
     margin-top: 30px;
   }
 }
-.contact .content .info address{}
+.contact .content .info address{
+  color: #777;
+}
