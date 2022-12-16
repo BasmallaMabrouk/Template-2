@@ -836,3 +836,4 @@ max-width:100% ;
   line-height: 2;
   margin-left: 50px;
 }
+@media (max-width: 991px) {}
