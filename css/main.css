@@ -853,6 +853,6 @@ max-width:100% ;
 }
 @media (max-width: 767px) {
   .contact .content {
-    flex-direction:
+    flex-direction:column;
   }
 }
