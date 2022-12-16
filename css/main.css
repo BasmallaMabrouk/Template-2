@@ -793,6 +793,6 @@ header nav .form {
 } 
 @media (max-width: 991px){
   .subscribe .container {
-    flex-direction:;
+    flex-direction:column;
   }
 }
