@@ -960,4 +960,5 @@ max-width:100% ;
 }
 .footer .copyright span{
   font-weight: bold;
+  color: var(--main-color);
 }
