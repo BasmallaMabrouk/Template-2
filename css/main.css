@@ -837,5 +837,7 @@ max-width:100% ;
   margin-left: 50px;
 }
 @media (max-width: 991px) {
-  .subscribe p {}
+  .subscribe p {
+    margin: 30px ;
+  }
 }
