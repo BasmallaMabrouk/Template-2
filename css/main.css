@@ -817,5 +817,6 @@ max-width:100% ;
   width: calc(100% - 130px);
 }
 .subscribe form input[type="submit"]{
-  width: 130px;
+ width: 130px;
+ background-color: var(--main-color);
 }
