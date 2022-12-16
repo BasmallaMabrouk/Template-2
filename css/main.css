@@ -885,4 +885,6 @@ max-width:100% ;
 .contact .content .info {
   flex-basis: 25%;
 }
-@media (max-width: 767px){}
+@media (max-width: 767px){
+  .contact .content .info
+}
