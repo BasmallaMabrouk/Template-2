@@ -861,4 +861,5 @@ max-width:100% ;
 }
 .contact .content form .main-input{ 
   padding: 20px;
+  display: block;
 }
