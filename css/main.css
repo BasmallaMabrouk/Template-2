@@ -920,4 +920,6 @@ max-width:100% ;
   }
 }
 /* End Contact */
-.footer{}
+.footer{
+  padding-top: calc(var(--section-padding) / 2);
+}
