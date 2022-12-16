@@ -958,4 +958,6 @@ max-width:100% ;
 .footer .copyright{
   margin-top: 60px;
 }
-.footer .copyright span{}
+.footer .copyright span{
+  font-weight: bold;
+}
