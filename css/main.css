@@ -914,3 +914,4 @@ max-width:100% ;
   color: #777;
   line-height: 2;
 }
+@media (max-width: 767px){}
