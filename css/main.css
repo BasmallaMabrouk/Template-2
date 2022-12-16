@@ -856,4 +856,6 @@ max-width:100% ;
     flex-direction:column;
   }
 }
-.contact .content form{}
+.contact .content form{
+  flex-basis: 70%;
+}
