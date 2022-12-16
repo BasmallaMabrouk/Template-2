@@ -931,4 +931,5 @@ max-width:100% ;
 }
 .footer::before{
   content: "";
+  position: absolute;
 }
