@@ -826,4 +826,6 @@ max-width:100% ;
  text-transform:uppercase;
 }
 .subscribe form input[type="email"]:focus,
-.subscribe form input[type="submit"]:focus {}
+.subscribe form input[type="submit"]:focus {
+  outline: none;
+}
