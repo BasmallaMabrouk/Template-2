@@ -779,6 +779,7 @@ header nav .form {
 }
 .subscribe::before{
   content: "";
-  position:;
+  position: absolute;
+
 
 }
