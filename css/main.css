@@ -829,4 +829,6 @@ max-width:100% ;
 .subscribe form input[type="submit"]:focus {
   outline: none;
 }
-.subscribe form ::placeholder {}
+.subscribe form ::placeholder {
+  color: white;
+}
