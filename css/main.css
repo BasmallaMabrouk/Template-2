@@ -912,4 +912,5 @@ max-width:100% ;
 }
 .contact .content .info address{
   color: #777;
+  line-height: 2;
 }
