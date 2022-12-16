@@ -891,4 +891,6 @@ max-width:100% ;
     text-align: center;
   }
 }
-.contact .content .info h4 {}
+.contact .content .info h4 {
+  text-transform: uppercase;
+}
