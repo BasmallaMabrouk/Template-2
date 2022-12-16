@@ -688,7 +688,7 @@ header nav .form {
 } 
 /* end quote */
 /* Start Pricing */
-..pricing{
+.pricing{
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
 }
