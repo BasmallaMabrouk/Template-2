@@ -925,4 +925,5 @@ max-width:100% ;
   padding-bottom: calc(var(--section-padding) / 2);
   background-image: url("../images/subscribe.jpg");
   background-size: cover;
+  position: relative;
 }
