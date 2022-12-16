@@ -775,4 +775,5 @@ header nav .form {
   background-image: url("../images/subscribe.jpg");
   background-size: cover;
   position: relative;
+  color: white;
 }
