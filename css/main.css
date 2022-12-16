@@ -849,5 +849,5 @@ max-width:100% ;
 } 
 .contact .content{
   display:flex;
-  justify-content:
+  justify-content:space-between;
 }
