@@ -821,5 +821,5 @@ max-width:100% ;
  background-color: var(--main-color);
  color: white;
  padding: 10px 20px ;
- border: 1px;
+ border: 1px solid ;
 }
