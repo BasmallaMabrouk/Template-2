@@ -867,5 +867,5 @@ max-width:100% ;
   width: 100%;
 }
 .contact .content form .main-input:focus{
-  outline: ;
+  outline:none ;
 }
