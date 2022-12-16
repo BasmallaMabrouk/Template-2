@@ -859,3 +859,4 @@ max-width:100% ;
 .contact .content form{
   flex-basis: 70%;
 }
+.contact .content form .main-input{}
