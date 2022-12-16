@@ -810,4 +810,5 @@ max-width:100% ;
 }
 .subscribe form input[type="email"]{
   border: 1px solid white;
+  border-right:
 }
