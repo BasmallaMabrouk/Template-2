@@ -778,5 +778,5 @@ header nav .form {
   color: white;
 }
 .subscribe::before{
-  
+  content: "";
 }
