@@ -771,4 +771,5 @@ header nav .form {
 /* Start Subscribe */
 .subscribe{
   padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
 }
