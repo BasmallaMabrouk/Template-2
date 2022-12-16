@@ -878,4 +878,5 @@ max-width:100% ;
   padding: 20px;
   border: none;
   display: flex;
+  margin-left: auto;
 }
