@@ -866,4 +866,6 @@ max-width:100% ;
   margin-bottom: 30px;
   width: 100%;
 }
-.contact .content form .main-input:focus{}
+.contact .content form .main-input:focus{
+  outline: ;
+}
